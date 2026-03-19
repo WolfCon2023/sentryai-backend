@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+*.log
+coverage/
+.DS_Store
+agents/venv/
+agents/__pycache__/
+agents/**/__pycache__/
